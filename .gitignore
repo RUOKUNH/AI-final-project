@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+/cmake*/
+/.idea/
+
+*.xml
+
+.project
+.cproject
+.mxproject
+
+CMakeLists_template.txt
+
+/MDK-ARM/DebugConfig/
+/MDK-ARM/RM_frame/
+/MDK-ARM/RM_frame.uvgui*
+/MDK-ARM/RM_frame.uvopt*
+/MDK-ARM/*.scvd
